@@ -9,7 +9,7 @@ public class TestController {
 
 	@RequestMapping
 	public String test() {
-		return "Hello, World! appna";
+		return "Hello, World! appna brand";
 	}
 
 }
