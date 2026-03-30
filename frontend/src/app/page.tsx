@@ -56,7 +56,7 @@ export default function Home() {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Documentation of testing
+            Documentation of the java 
           </a>
         </div>
       </main>
