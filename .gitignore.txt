@@ -1,0 +1,18 @@
+# Node
+frontend/node_modules/
+frontend/.next/
+
+# Java
+GameAppBackend/target/
+
+# Eclipse
+.metadata
+.project
+.classpath
+.settings/
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
